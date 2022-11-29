@@ -1,8 +1,7 @@
 ## Hi 👋, my name is Nur
 
-- 🔭 I’m currently working on ParaKobi
 - 🌱 I’m currently learning .NET CORE
-- 📫 How to reach me: nuryavuzz@outlook.com
+- 📫 How to reach me: nurovecc@outlook.com
 
 
 
